@@ -12,6 +12,7 @@ This project implements an algorithm to convert infix expressions to postfix exp
 ## Installation
 
 ### Prerequisites
+- C++ Compiler (e.g., GCC, Clang, MSVC)
 - [Microsoft Visual Studio 2010](https://visualstudio.microsoft.com/vs/older-downloads/)
 
 ### Steps
@@ -21,7 +22,8 @@ This project implements an algorithm to convert infix expressions to postfix exp
 4. Install the required dependencies
 
 ## Usage
-Run the application: infix2Postfix.exe
+1. Compile the C++ program: g++ -o infix2Postfix main.cpp
+2. Run the executable: ./infix2Postfix.exe
 You can input your infix expression when prompted, or modify the script to convert a predefined infix expression.
 
 ## Example
