@@ -42,3 +42,12 @@ Alternatively, see the GitHub documentation on [creating a pull request](https:/
 
 ## License
 This project is licensed under the [MIT License](LICENSE.md) - see the LICENSE file for details.
+
+
+   ```bash
+   g++ -o binary_tree main.cpp
+   ```
+
+   ```bash
+   ./binary_tree
+   ```
