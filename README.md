@@ -27,8 +27,14 @@ This project implements an algorithm to convert infix expressions to postfix exp
 You can input your infix expression when prompted, or modify the script to convert a predefined infix expression.
 
 ## Example
-Input: A + B * C - ( D * E + F ) * G
-Output: A B C * + D E * F + G * -
+Input:
+```
+A + B * C - ( D * E + F ) * G
+```
+Output:
+```
+A B C * + D E * F + G * -
+```
 
 ## Contributing
 Contributions to the project are welcome! Please follow these steps:
