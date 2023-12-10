@@ -22,8 +22,8 @@ This project implements an algorithm to convert infix expressions to postfix exp
 4. Install the required dependencies
 
 ## Usage
-1. Compile the C++ program: ```bash g++ -o infix2Postfix main.cpp ```
-2. Run the executable: ```bash ./infix2Postfix.exe ```
+1. Compile the C++ program: ``` g++ -o infix2Postfix main.cpp```
+2. Run the executable: ``` ./infix2Postfix.exe```
 
 You can input your infix expression when prompted, or modify the script to convert a predefined infix expression.
 
